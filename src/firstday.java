@@ -1,5 +1,6 @@
 public class firstday {
-    public static void main(String args[]) { ho gya sayad
+    public static void main(String args[]) {
+//complete
 
 // local variable
        /* int num = 10;
