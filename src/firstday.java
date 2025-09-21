@@ -1,6 +1,6 @@
 public class firstday {
-    public static void main(String args[]) ghghghghh{
-
+    public static void main(String args[]) {
+********************************************************
 
 // local variable
        /* int num = 10;
