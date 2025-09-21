@@ -1,5 +1,5 @@
 public class day {
     public static void main(String args[]){
-        System.out.println("sghsgh");lll
+        System.out.println("sghsgh");lllkkkkk
     }
 }
